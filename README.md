@@ -1,4 +1,4 @@
-## Hi there <!--
+## Hi there 
 **OPIM5512-Nej19001/OPIM5512-Nej19001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 Hello, my name is Nehal Jaiswal. I am part of the MSBAPM program at Uconn. 
 - 🌱 Learning Data Science with Python for better analysis 
